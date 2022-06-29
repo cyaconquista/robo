@@ -1,3 +1,8 @@
+/* Projeto referente Robo seguidor de linha
+ *  Desenvolvido por: Manoel Messias Pereira de Deus
+ *  Data Inicial: 25/03/2022
+ *  Data da ultima alteração 28/06/2022
+ */
 //Motores – Saídas digitais
 int motorA_PWM = 10; //Controle de velocidade do motor A (Esquerdo)
 int motorB_PWM = 11; //Controle de velocidade do motor B (Direito)
